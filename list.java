@@ -7,7 +7,6 @@ public class HelloWorld
 		for(int i=0;i<8;i++){
 			list.add(i);
 		}
-		int firstElement = list[0];
-		firstElement+=2;
+		System.out.println("Hello world");
 	}
 }
