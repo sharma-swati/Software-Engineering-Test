@@ -8,6 +8,5 @@ public class HelloWorld
 			list.add(i);
 		}
 		int firstElement = list[0];
-		System.out.println("Output is "+firstElement);
 	}
 }
